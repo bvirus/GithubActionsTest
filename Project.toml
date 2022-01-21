@@ -1,0 +1,7 @@
+name = "GithubActionsTest"
+uuid = "70a0dab5-79f3-41a7-8d97-5ac7e2f712ee"
+authors = ["James Eschrich <jaeschrich@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
